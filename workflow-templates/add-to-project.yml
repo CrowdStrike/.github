@@ -1,0 +1,19 @@
+name: Add issue/pr to CrowdStrike Github project
+
+on:
+  issues:
+    types:
+      - opened
+  pull_request:
+    types:
+      - opened
+env:
+  PROJECT_NUMBER: MY_PROJECT_NUMBER # set this to the CrowdStrike project you want to add the issue/pr to    
+
+jobs:
+  add-to-github-project:
+    uses: crowdstrike/.github/.github/workflows/add-to-project.yml@main
+    with:
+      project_number: ${{ env.PROJECT_NUMBER }} 
+    secrets:
+      ADD_TO_PROJECT_PAT: ${{ secrets.ADD_TO_PROJECT_PAT }}

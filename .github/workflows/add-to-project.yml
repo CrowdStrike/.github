@@ -1,0 +1,21 @@
+name: Add issue/pr to CrowdStrike Github project
+
+on:
+  workflow_call:
+    inputs:
+      project_number:
+        required: true
+        type: number
+    secrets:
+      ADD_TO_PROJECT_PAT:
+        required: true
+
+jobs:
+  add-to-project:
+    name: Add to project
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/add-to-project@v0.5.0
+        with:
+          project-url: https://github.com/orgs/CrowdStrike/projects/${{ inputs.project_number}}
+          github-token: ${{ secrets.ADD_TO_PROJECT_PAT }}
