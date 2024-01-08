@@ -76,8 +76,8 @@ reporter of any incident.
 If you do not feel safe communicating with the project maintainers, or
 if you feel the situation warrants, please escalate to:
 
-Integration Solution Architect Team<br/>
-[integrations@crowdstrike.com](mailto:integrations@crowdstrike.com)<br/>
+* [oss-conduct@crowdstrike.com](mailto:oss-conduct@crowdstrike.com)
+* [Ethics and Compliance Hotline](https://crowdstrike.ethicspoint.com/)
 
 ### Enforcement Guidelines
 
@@ -139,6 +139,7 @@ For answers to common questions about this code of conduct, see the FAQ at
 [https://www.contributor-covenant.org/translations](https://www.contributor-covenant.org/translations).
 
 ## Improving the Code of Conduct
+
 Suggestions welcome on how to improve this code of conduct!
 
 * Have a suggestion or idea to discuss? Open a discussion

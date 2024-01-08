@@ -4,9 +4,11 @@ description: Guidance for Contributing to CrowdStrike Open Source Projects
 ---
 
 # Welcome!
+
 Welcome and thank you for your interest in contributing to a CrowdStrike project! We recognize contributing to a project is no small feat! The guidance here aspires to help onboard new community members into how CrowdStrike-led projects tend to operate, and by extension, make the contribution process easier.
 
 ## How do I make a contribution?
+
 Never made an open source contribution before? Wondering how contributions work in CrowdStrike projects? Here is a quick rundown!
 
 1. Find an issue that you are interested in addressing, or a feature you would like to add. These are often documented in the project repositories themselves, frequently in the `issues` section.
@@ -45,6 +47,7 @@ Never made an open source contribution before? Wondering how contributions work 
 11. While not all pull requests may be merged, celebrate your contribution whether or not your pull request is merged! All changes move the project forward, and we thank you for helping the community!
 
 ### Rebase Early, Rebase Often!
+
 Projects tend to move at a fast pace, which means your fork may become behind upstream. Keeping your local fork in sync with upstream is called `rebasing`. This ensures your local copy is frequently refreshed with the latest changes from the community.
 
 Frequenty rebasing is *strongly* encouraged. If your local copy falls to far behind, you may encounter merge conflicts when submitting pull request. If this happens, you will have to triage (often by hand!) the differences in your local repository versus the changes upstream.
@@ -53,24 +56,27 @@ Frequenty rebasing is *strongly* encouraged. If your local copy falls to far beh
 
 * For handling merge conflicts, refer to [https://opensource.com/article/20/4/git-merge-conflict](https://opensource.com/article/20/4/git-merge-conflict)
 
-
 ## Where can I go for help?
+
 ### Submitting a Ticket
+
 General questions relating a project should be opened in that projects repository. Examples would be troubleshooting errors, submitting bug reports, or asking a general question/request for clarification.
 
 If your question is of the broader CrowdStrike community, please [open a community discussion](https://github.com/CrowdStrike/community/discussions/new).
 
 ### Submitting a New Project Idea
+
  If you do not see a project, repository, or would like the community to consider working on a specific piece of technology, please [open a community ticket](https://github.com/CrowdStrike/community/issues/new).
 
-
 ## What does the Code of Conduct mean for me?
+
 Our Code of Conduct means that you are responsible for treating everyone on the project with respect and courtesy regardless of their identity. If you are the victim of any inappropriate behavior or comments as described in our Code of Conduct, we are here for you and will do the best to ensure that the abuser is reprimanded appropriately, per our code.
 
 Each CrowdStrike project should have its own group of maintainers that issues can be raised to. These individuals are accountable for enforcing the CrowdStrike Code of Conduct within the project.
 
 ### Escalation Path
+
 If you do not feel safe communicating with the project maintainers, or if you feel the situation warrants, please escalate to:
 
-Integration Solution Architect Team<br/>
-[integrations@crowdstrike.com](mailto:integrations@crowdstrike.com)<br/>
+* [oss-conduct@crowdstrike.com](mailto:oss-conduct@crowdstrike.com)
+* [Ethics and Compliance Hotline](https://crowdstrike.ethicspoint.com/)
