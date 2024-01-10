@@ -63,21 +63,20 @@ representative at an online or offline event.
 
 ## Enforcement
 
-Each project has one or more project maintainers/community leaders. These individuals are
-accountable to enforce the code of conduct within a given project.
+Each project has one or more project maintainers. These individuals are
+responsible for enforcing the Code of Conduct within a given project.
 
 Instances of abusive, harassing, or otherwise unacceptable behavior may be
-reported to the community leaders. All ccomplaints will be reviewed and
-investigated promptly and fairly.
-
-All community leaders are obligated to respect the privacy and security of the
-reporter of any incident.
-
-If you do not feel safe communicating with the project maintainers, or
-if you feel the situation warrants, please escalate to:
+reported to the project maintainers at any time. Concerns can also be escalated 
+directly to community leaders at:
 
 * [oss-conduct@crowdstrike.com](mailto:oss-conduct@crowdstrike.com)
 * [Ethics and Compliance Hotline](https://crowdstrike.ethicspoint.com/)
+
+All complaints will be reviewed and investigated promptly and fairly.
+
+Community leaders are obligated to respect the privacy and security of the
+reporter of any incident.
 
 ### Enforcement Guidelines
 

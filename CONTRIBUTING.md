@@ -70,13 +70,13 @@ If your question is of the broader CrowdStrike community, please [open a communi
 
 ## What does the Code of Conduct mean for me?
 
-Our Code of Conduct means that you are responsible for treating everyone on the project with respect and courtesy regardless of their identity. If you are the victim of any inappropriate behavior or comments as described in our Code of Conduct, we are here for you and will do the best to ensure that the abuser is reprimanded appropriately, per our code.
+Our community Code of Conduct helps us establish community norms and how they'll be enforced. Community members are expected to treat each other with respect and courtesy regardless of their identity. 
 
-Each CrowdStrike project should have its own group of maintainers that issues can be raised to. These individuals are accountable for enforcing the CrowdStrike Code of Conduct within the project.
+CrowdStrike open source project maintainers are responsible for enforcing the CrowdStrike Code of Conduct within the project, issues may be raised directly to the maintainer should the need arise.
 
 ### Escalation Path
 
-If you do not feel safe communicating with the project maintainers, or if you feel the situation warrants, please escalate to:
+If you do not feel your concern has been addressed, if you are unable to communicate your concern with project maintainers, or if you feel the situation warrants, please escalate to:
 
 * [oss-conduct@crowdstrike.com](mailto:oss-conduct@crowdstrike.com)
 * [Ethics and Compliance Hotline](https://crowdstrike.ethicspoint.com/)
