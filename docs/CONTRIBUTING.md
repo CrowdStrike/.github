@@ -1,8 +1,3 @@
----
-title: Contributing
-description: Guidance for Contributing to CrowdStrike Open Source Projects
----
-
 # Welcome!
 
 Welcome and thank you for your interest in contributing to a CrowdStrike project! We recognize contributing to a project is no small feat! The guidance here aspires to help onboard new community members into how CrowdStrike-led projects tend to operate, and by extension, make the contribution process easier.
@@ -70,7 +65,7 @@ If your question is of the broader CrowdStrike community, please [open a communi
 
 ## What does the Code of Conduct mean for me?
 
-Our community Code of Conduct helps us establish community norms and how they'll be enforced. Community members are expected to treat each other with respect and courtesy regardless of their identity. 
+Our community Code of Conduct helps us establish community norms and how they'll be enforced. Community members are expected to treat each other with respect and courtesy regardless of their identity.
 
 CrowdStrike open source project maintainers are responsible for enforcing the CrowdStrike Code of Conduct within the project, issues may be raised directly to the maintainer should the need arise.
 
