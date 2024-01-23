@@ -1,8 +1,3 @@
----
-title: Code of Conduct
-description: Code of Conduct for CrowdStrike-led Open Source Projects
----
-
 # CrowdStrike Community Code of Conduct
 
 ## Our Pledge
@@ -67,7 +62,7 @@ Each project has one or more project maintainers. These individuals are
 responsible for enforcing the Code of Conduct within a given project.
 
 Instances of abusive, harassing, or otherwise unacceptable behavior may be
-reported to the project maintainers at any time. Concerns can also be escalated 
+reported to the project maintainers at any time. Concerns can also be escalated
 directly to community leaders at:
 
 * [oss-conduct@crowdstrike.com](mailto:oss-conduct@crowdstrike.com)
