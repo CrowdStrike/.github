@@ -1,4 +1,4 @@
-# Security
+# Reporting Security Issues
 
 This document outlines the security policy and procedures for projects under the CrowdStrike organization.
 
