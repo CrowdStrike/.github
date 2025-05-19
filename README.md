@@ -53,13 +53,13 @@ Public repositories under CrowdStrike’s GitHub organization follow one of two 
 - **Direct Support:** Users may receive assistance either through GitHub Issues or by contacting the CrowdStrike Support Team directly via the standard support process.
 
 > [!TIP]
-> The default `SUPPORT.md` is intentionally generic. Maintainers are encouraged to create a customized `SUPPORT.md` in their repositories to provide project-specific guidance and clarify support expectations based on their team’s processes. For inspiration, refer to [FalconPy](https://github.com/CrowdStrike/falconpy/blob/main/SUPPORT.md)
+> The default `SUPPORT.md` is intentionally generic. Maintainers are encouraged to create a customized `SUPPORT.md` in their repositories to provide project-specific guidance and clarify support expectations based on their team’s processes. For inspiration, refer to [FalconPy](https://github.com/CrowdStrike/falconpy/blob/main/SUPPORT.md).
 
 #### Default Support Path is Community
 
 As mentioned above, the default support level for public repositories is **Community Support**. If a repository does not include its own `SUPPORT.md`, it will automatically inherit the Community Support version from this repository.
 
-If you, as a maintainer, determine that your project qualifies for **Direct Support**, you can reference the [Direct Support Template](https://github.com/CrowdStrike/.github/docs/SUPPORT-direct.md) as a starting point. Customize it as needed and commit it directly to your repository to override the default support behavior.
+If you, as a maintainer, have determined that your project qualifies for Direct Support, and have received approval from the CrowdStrike support team, you can reference the [Direct Support Template](https://github.com/CrowdStrike/.github/docs/SUPPORT-direct.md) as a starting point.
 
 #### Embed Snippet into README.md
 
