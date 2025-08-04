@@ -1,6 +1,6 @@
 # Support
 
-This is an open source project, not a CrowdStrike product. As such, it carries no formal support, expressed or implied.
+`{PROJECT NAME}` is an open source project, not a CrowdStrike product. As such, it carries no formal support, expressed or implied.
 
 ## How to Request Help
 

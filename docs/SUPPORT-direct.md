@@ -1,6 +1,6 @@
 # Support
 
-This is a community-driven, open source project. While it is not an official CrowdStrike product, it is actively maintained by CrowdStrike and supported in collaboration with the open source developer community.
+`{PROJECT NAME}` is a community-driven, open source project. While it is not an official CrowdStrike product, it is actively maintained by CrowdStrike and supported in collaboration with the open source developer community.
 
 ## How to Request Help
 

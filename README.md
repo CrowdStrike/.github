@@ -1,5 +1,5 @@
-![CrowdStrike Logo (Light)](https://raw.githubusercontent.com/CrowdStrike/.github/main/assets/cs-logo-light-mode.png#gh-light-mode-only)
-![CrowdStrike Logo (Dark)](https://raw.githubusercontent.com/CrowdStrike/.github/main/assets/cs-logo-red-dark-mode.png#gh-dark-mode-only)
+![CrowdStrike Logo (Light)](https://raw.githubusercontent.com/CrowdStrike/.github/blob/main/assets/cs-logo-light-mode.png#gh-light-mode-only)
+![CrowdStrike Logo (Dark)](https://raw.githubusercontent.com/CrowdStrike/.github/blob/main/assets/cs-logo-red-dark-mode.png#gh-dark-mode-only)
 
 # CrowdStrike GitHub Organization
 
@@ -7,19 +7,19 @@ This repository provides default community health files, policies, and reusable 
 
 These standards help ensure consistency and clarity across all repositories managed by CrowdStrike.
 
-## Branding: Logo Usage
+## Logo Guidance
 
 To maintain a unified brand presence, all repositories in the CrowdStrike organization should include the official CrowdStrike logo at the top of their README.md files.
 
-The logos are hosted in the [assets/](https://github.com/CrowdStrike/.github/tree/main/assets) directory of this repository and are configured to support GitHub’s light and dark themes.
+The logos are hosted in the [assets/](/assets/) directory of this repository and are configured to support GitHub’s light and dark themes.
 
 ### How to Embed
 
 Add the following Markdown snippet at the top of your README.md file ***before*** any headings or content:
 
 ```markdown
-![CrowdStrike Logo (Light)](https://raw.githubusercontent.com/CrowdStrike/.github/main/assets/cs-logo-light-mode.png#gh-light-mode-only)
-![CrowdStrike Logo (Dark)](https://raw.githubusercontent.com/CrowdStrike/.github/main/assets/cs-logo-red-dark-mode.png#gh-dark-mode-only)
+![CrowdStrike Logo (Light)](https://raw.githubusercontent.com/CrowdStrike/.github/blob/main/assets/cs-logo-light-mode.png#gh-light-mode-only)
+![CrowdStrike Logo (Dark)](https://raw.githubusercontent.com/CrowdStrike/.github/blob/main/assets/cs-logo-red-dark-mode.png#gh-dark-mode-only)
 ```
 
 ## Default Community Files
@@ -59,7 +59,7 @@ Public repositories under CrowdStrike’s GitHub organization follow one of two 
 
 As mentioned above, the default support level for public repositories is **Community Support**. If a repository does not include its own `SUPPORT.md`, it will automatically inherit the Community Support version from this repository.
 
-If you, as a maintainer, have determined that your project qualifies for Direct Support, and have received approval from the CrowdStrike support team, you can reference the [Direct Support Template](https://github.com/CrowdStrike/.github/docs/SUPPORT-direct.md) as a starting point.
+If you, as a maintainer, have determined that your project qualifies for Direct Support or Product Support, and have received approval from the CrowdStrike support team, you can reference the [Direct Support](docs/SUPPORT-direct.md) or [Product Support](docs/SUPPORT-product.md) templates as a starting point.
 
 #### Embed Snippet into README.md
 
@@ -70,7 +70,7 @@ While the `SUPPORT.md` file is inherited by default, it’s considered best prac
 ```markdown
 ## Support
 
-{REPO NAME} is an open source project designed to {DESCRIPTION}. It is not a formal CrowdStrike produc and as such, it carries no formal support, expressed or implied.
+{PROJECT NAME} is an open source project designed to {DESCRIPTION}. It is not a formal CrowdStrike produc and as such, it carries no formal support, expressed or implied.
 
 For additional details on the support policy for this project, please see [SUPPORT.md]({PROJECT URL}/SUPPORT.md).
 ```
@@ -80,7 +80,17 @@ For additional details on the support policy for this project, please see [SUPPO
 ```markdown
 ## Support
 
-{REPO NAME} is a community-driven, open source project designed to {DESCRIPTION}. While not a formal CrowdStrike product, {REPO NAME} is maintained by CrowdStrike and supported in partnership with the open source developer community.
+{PROJECT NAME} is a community-driven, open source project designed to {DESCRIPTION}. While not a formal CrowdStrike product, {PROJECT NAME} is maintained by CrowdStrike and supported in partnership with the open source developer community.
+
+For additional details on the support policy for this project, please see [SUPPORT.md]({PROJECT URL}/SUPPORT.md).
+```
+
+#### Product Supported
+
+```markdown
+## Support
+
+{PROJECT NAME} is an open source project maintained by CrowdStrike.  CrowdStrike will support use of {PROJECT NAME} in connection with the use of CrowdStrike’s products pursuant to applicable terms in the license for such product.
 
 For additional details on the support policy for this project, please see [SUPPORT.md]({PROJECT URL}/SUPPORT.md).
 ```
