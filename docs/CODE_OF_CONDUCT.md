@@ -1,4 +1,4 @@
-# CrowdStrike Community Code of Conduct
+# Community Code of Conduct
 
 ## Our Pledge
 
@@ -58,27 +58,21 @@ representative at an online or offline event.
 
 ## Enforcement
 
-Each project has one or more project maintainers. These individuals are
-responsible for enforcing the Code of Conduct within a given project.
-
 Instances of abusive, harassing, or otherwise unacceptable behavior may be
-reported to the project maintainers at any time. Concerns can also be escalated
-directly to community leaders at:
-
-* [oss-conduct@crowdstrike.com](mailto:oss-conduct@crowdstrike.com)
-* [Ethics and Compliance Hotline](https://crowdstrike.ethicspoint.com/)
+reported to the community leaders responsible for enforcement at
+<oss-conduct@crowdstrike.com> or <https://crowdstrike.ethicspoint.com/>.
 
 All complaints will be reviewed and investigated promptly and fairly.
 
-Community leaders are obligated to respect the privacy and security of the
+All community leaders are obligated to respect the privacy and security of the
 reporter of any incident.
 
-### Enforcement Guidelines
+## Enforcement Guidelines
 
 Community leaders will follow these Community Impact Guidelines in determining
 the consequences for any action they deem in violation of this Code of Conduct:
 
-#### 1. Correction
+### 1. Correction
 
 **Community Impact**: Use of inappropriate language or other behavior deemed
 unprofessional or unwelcome in the community.
@@ -87,7 +81,7 @@ unprofessional or unwelcome in the community.
 clarity around the nature of the violation and an explanation of why the
 behavior was inappropriate. A public apology may be requested.
 
-#### 2. Warning
+### 2. Warning
 
 **Community Impact**: A violation through a single incident or series
 of actions.
@@ -99,7 +93,7 @@ includes avoiding interactions in community spaces as well as external channels
 like social media. Violating these terms may lead to a temporary or
 permanent ban.
 
-#### 3. Temporary Ban
+### 3. Temporary Ban
 
 **Community Impact**: A serious violation of community standards, including
 sustained inappropriate behavior.
@@ -110,7 +104,7 @@ private interaction with the people involved, including unsolicited interaction
 with those enforcing the Code of Conduct, is allowed during this period.
 Violating these terms may lead to a permanent ban.
 
-#### 4. Permanent Ban
+### 4. Permanent Ban
 
 **Community Impact**: Demonstrating a pattern of violation of community
 standards, including sustained inappropriate behavior,  harassment of an
@@ -123,21 +117,14 @@ the community.
 
 This Code of Conduct is adapted from the [Contributor Covenant][homepage],
 version 2.0, available at
-[https://www.contributor-covenant.org/version/2/0/code_of_conduct.html](https://www.contributor-covenant.org/version/2/0/code_of_conduct.html).
+<https://www.contributor-covenant.org/version/2/0/code_of_conduct.html>.
 
 Community Impact Guidelines were inspired by [Mozilla's code of conduct
 enforcement ladder](https://github.com/mozilla/diversity).
 
+[homepage]: https://www.contributor-covenant.org
+
 For answers to common questions about this code of conduct, see the FAQ at
-[https://www.contributor-covenant.org/faq](https://www.contributor-covenant.org/faq). Translations are available at
-[https://www.contributor-covenant.org/translations](https://www.contributor-covenant.org/translations).
+<https://www.contributor-covenant.org/faq>. Translations are available at
+<https://www.contributor-covenant.org/translations>.
 
-## Improving the Code of Conduct
-
-Suggestions welcome on how to improve this code of conduct!
-
-* Have a suggestion or idea to discuss? Open a discussion
-at [https://github.com/CrowdStrike/community/discussions](https://github.com/CrowdStrike/community/discussions)!
-
-* Want to submit a pull request with recommended changes? Submit a PR
-against [https://github.com/CrowdStrike/community/blob/main/docs/pages/code-of-conduct.md](https://github.com/CrowdStrike/community/blob/main/docs/pages/code-of-conduct.md).
