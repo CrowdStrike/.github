@@ -24,7 +24,7 @@ Add the following Markdown snippet at the top of your README.md file ***before**
 
 ## Default Community Files
 
-This repository includes a set of default community health files that automatically apply to all repositories within the CrowdStrike organization ***unless those repositories include their own versions*.** If a repository has a local copy of any of these files, that version takes precedence.
+This repository includes a set of default community health files that automatically apply to all repositories within the CrowdStrike organization ***unless those repositories include their own versions.*** If a repository has a local copy of any of these files, that version takes precedence.
 
 ### CODE_OF_CONDUCT.md
 
@@ -70,7 +70,7 @@ While the `SUPPORT.md` file is inherited by default, it’s considered best prac
 ```markdown
 ## Support
 
-{PROJECT NAME} is an open source project designed to {DESCRIPTION}. It is not a formal CrowdStrike produc and as such, it carries no formal support, expressed or implied.
+{PROJECT NAME} is an open source project designed to {DESCRIPTION}. It is not a formal CrowdStrike product and as such, it carries no formal support, expressed or implied.
 
 For additional details on the support policy for this project, please see [SUPPORT.md]({PROJECT URL}/SUPPORT.md).
 ```
@@ -90,7 +90,7 @@ For additional details on the support policy for this project, please see [SUPPO
 ```markdown
 ## Support
 
-{PROJECT NAME} is an open source project maintained by CrowdStrike.  CrowdStrike will support use of {PROJECT NAME} in connection with the use of CrowdStrike’s products pursuant to applicable terms in the license for such product.
+{PROJECT NAME} is an open source project maintained by CrowdStrike. CrowdStrike will support use of {PROJECT NAME} in connection with the use of CrowdStrike’s products pursuant to applicable terms in the license for such product.
 
 For additional details on the support policy for this project, please see [SUPPORT.md]({PROJECT URL}/SUPPORT.md).
 ```
