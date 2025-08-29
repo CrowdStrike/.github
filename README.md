@@ -1,5 +1,5 @@
-![CrowdStrike Logo (Light)](https://raw.githubusercontent.com/CrowdStrike/.github/blob/main/assets/cs-logo-light-mode.png#gh-light-mode-only)
-![CrowdStrike Logo (Dark)](https://raw.githubusercontent.com/CrowdStrike/.github/blob/main/assets/cs-logo-red-dark-mode.png#gh-dark-mode-only)
+![CrowdStrike Logo (Light)](https://raw.githubusercontent.com/CrowdStrike/.github/main/assets/cs-logo-light-mode.png#gh-light-mode-only)
+![CrowdStrike Logo (Dark)](https://raw.githubusercontent.com/CrowdStrike/.github/main/assets/cs-logo-dark-mode.png#gh-dark-mode-only)
 
 # CrowdStrike GitHub Organization
 
@@ -18,8 +18,8 @@ The logos are hosted in the [assets/](/assets/) directory of this repository and
 Add the following Markdown snippet at the top of your README.md file ***before*** any headings or content:
 
 ```markdown
-![CrowdStrike Logo (Light)](https://raw.githubusercontent.com/CrowdStrike/.github/blob/main/assets/cs-logo-light-mode.png#gh-light-mode-only)
-![CrowdStrike Logo (Dark)](https://raw.githubusercontent.com/CrowdStrike/.github/blob/main/assets/cs-logo-red-dark-mode.png#gh-dark-mode-only)
+![CrowdStrike Logo (Light)](https://raw.githubusercontent.com/CrowdStrike/.github/main/assets/cs-logo-light-mode.png#gh-light-mode-only)
+![CrowdStrike Logo (Dark)](https://raw.githubusercontent.com/CrowdStrike/.github/main/assets/cs-logo-dark-mode.png#gh-dark-mode-only)
 ```
 
 ## Default Community Files
